@@ -8,7 +8,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const jaenu = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python],
   tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
